@@ -9,7 +9,6 @@ function encriptar() {
     encriptado = encriptado.replace(/a/gi, 'ai');
     encriptado = encriptado.replace(/o/gi, 'ober');
     encriptado = encriptado.replace(/u/gi, 'ufat');
-
     document.getElementById('salida').value = encriptado;
 }
 
