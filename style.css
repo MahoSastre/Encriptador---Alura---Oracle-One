@@ -56,3 +56,15 @@ textarea {
     margin-right: 0%;
     background:linear-gradient(#80a177,#77a19b)  ;
   }
+  a{
+    font-style: normal;
+    color: #000;
+    text-decoration: none;
+    font-size: small;
+    display: block;
+  }
+  a:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: medium;
+  }
